@@ -119,6 +119,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
   <img src="screenshots/step8.png" width="600"/>
   <br/>
   <img src="screenshots/step9.png" width="600"/>
+  <br/>
   <i>Figure 8: EC2 instance successfully launched</i>
 </p>
 
@@ -129,7 +130,7 @@ This guide walks you through creating a **Linux server** on AWS EC2 using the AW
 > The remaining steps (e.g., connecting via SSH, installing Apache, running your app) will be demonstrated via video.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1qO1nGuZszL4_VfaJzYPK5iNOgzRukJXN/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1zX5c7S7lMIs2XDo-JDVYdPwKoXlMahGS/view?usp=drive_link">
     <img src="screenshots/thumbnail.png" width="600"/>
   </a>
 </p>
