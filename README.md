@@ -1,3 +1,8 @@
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArisuAbhilash.aws-internship&left_color=navy" />
+</div>
+
+
 # ☁️ AWS Internship Project – Hands-on Cloud Learning
 
 Welcome to my AWS Internship Project repository! This project documents my hands-on learning journey using **Amazon Web Services (AWS)**. It covers essential cloud computing tasks like EC2 server deployment, EBS volumes, snapshots, Apache web hosting, and more — all performed using AWS Free Tier.
