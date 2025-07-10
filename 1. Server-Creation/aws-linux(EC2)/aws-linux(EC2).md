@@ -1,3 +1,6 @@
+<div align="right">
+<img src= "https://visitor-badge.laobi.icu/badge?page_id=AbhilashMaurya.weather-application.aws-linux(EC2)"/>
+</div>
 
 <p align="center">
   <img src="screenshots/awslinuxlogo.webp" width="120"/>
