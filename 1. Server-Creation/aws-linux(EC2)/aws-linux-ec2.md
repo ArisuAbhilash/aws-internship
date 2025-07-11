@@ -1,5 +1,8 @@
 <div align="right">
-<img src= "https://visitor-badge.laobi.icu/badge?page_id=AbhilashMaurya.weather-application.aws-linux(EC2)"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbhilashMaurya.aws-internship-server-creation-aws-linux-ec2" alt="Visitor Badge"/>
+</div>
+
+
 </div>
 
 <p align="center">
