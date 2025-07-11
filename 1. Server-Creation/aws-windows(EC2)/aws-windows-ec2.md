@@ -134,6 +134,7 @@ This guide walks you through creating a **Windows Server** on AWS EC2 using the 
 <p align="center">
   <a href="https://drive.google.com/file/d/1CHRKFXtuh7ni3c7kbFweRA_1bTcn-6OK/view?usp=drive_link">
   <img src="screenshots/final3.png" width="600" alt="Watch Video"/>
+  </br>
   <i> click on Picture to play video
   </a>
 </p>
