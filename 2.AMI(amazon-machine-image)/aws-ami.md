@@ -43,7 +43,7 @@ Before you begin:
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1yIP_wn6U35BsX0gbSs2WVfY6kywW2uVM/view?usp=sharing">
-    <img src="screenshot/thumbnail.png" width="600" alt="Watch Video"/>
+    <img src="screenshot/thumbnail.PNG" width="600" alt="Watch Video"/>
   </a>
 </p>
 
