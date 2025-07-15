@@ -38,7 +38,9 @@ Before you begin:
 - Search for **EBS** in the AWS Dashboard  
 - Click on **Elastic Block Store → Volumes**
 </br>
-<img src="screenshots\step1.png" width="600"/>
+
+![Step 1](screenshots/step1.png)
+
 
 ---
 
@@ -58,7 +60,8 @@ Before you begin:
 | **sc1 (Cold HDD)** | Lowest cost, for infrequent access (cold storage) |
 | **Standard (Magnetic)** | Older generation, rarely used now |
 
-<img src="screenshots\step2.png" width="600"/>
+![Step ](screenshots/step2.png)
+
 
 ---
 
@@ -97,6 +100,7 @@ Before you begin:
 <p align="center">
   <a href="https://drive.google.com/file/d/1iOSXTbt6Stkswz2Fn2LuIjRUu_FKIU6F/view?usp=sharing">
     <img src="screenshots\volume_thum.png" width="600" alt="Watch Video"/>
+  </br>
     video click to watch
   </a>
 </p>
