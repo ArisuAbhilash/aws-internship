@@ -26,6 +26,9 @@ This guide helps you:
 Before creating a snapshot, make sure you have:
 
 ✅ **An EC2 instance running (Linux/Windows)**  
+
+
+
 ✅ **An additional EBS volume attached to the instance** 
 </br>
 

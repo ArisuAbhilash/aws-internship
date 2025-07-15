@@ -24,8 +24,8 @@ Before you begin:
    - In this case, the demo is performed on a **Windows Server**, but the steps are similar for Linux.
    - For server creation guides, refer to:
 
-   - 👉 [Linux EC2 Server Setup Guide](https://github.com/AbhilashMaurya/aws-internship/tree/main/Server-Creation/aws-linux(EC2))  
-   - 👉 [Windows EC2 Server Setup Guide](https://github.com/AbhilashMaurya/aws-internship/tree/main/Server-Creation/aws-windows)
+   - 👉 [Linux EC2 Server Setup Guide](https://github.com/ArisuAbhilash/aws-internship/tree/main/1.%20Server-Creation/aws-linux(EC2))  
+   - 👉 [Windows EC2 Server Setup Guide](https://github.com/ArisuAbhilash/aws-internship/blob/main/1.%20Server-Creation/aws-windows(EC2)/aws-windows-ec2.md)
 
 ---
 
