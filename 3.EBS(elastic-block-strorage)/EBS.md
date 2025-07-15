@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/ebs-logo.png" width="120"/>
+  <img src="ebs-logo.jpg" width="120"/>
 </p>
 
 <h1 align="center" style="color:#2E86C1;">AWS EBS – Elastic Block Storage Overview</h1>
