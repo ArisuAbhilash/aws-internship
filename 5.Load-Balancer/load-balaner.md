@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/loadbalancer-logo.png" width="120"/>
+  <img src="screenshots/Load-Balancer.png" width="120"/>
 </p>
 
 <h1 align="center" style="color:#2E86C1;">AWS EC2 – Load Balancer Setup with AMI Replicated Servers</h1>
@@ -42,7 +42,7 @@ This saves time and ensures **all servers are identical.**
 
 #### **AMI Reference:**
 
-👉 Use the [AMI Creation Guide](https://github.com/AbhilashMaurya/aws-internship/blob/main/AMI-Creation/README.md)  
+👉 Use the [AMI Creation Guide](https://github.com/ArisuAbhilash/aws-internship/tree/main/2.AMI(amazon-machine-image))  
 Follow the steps to create and launch multiple servers from your custom AMI.
 
 ---
@@ -89,6 +89,11 @@ Choose **Application Load Balancer (ALB)**
 - **Name:** `my-load-balancer`  
 - **Scheme:** Internet-facing (for public access)  
 - **IP Address Type:** IPv4  
+</br>
+<p align="center">
+  <img src="screenshots/step3.png" width="600"/>
+</p>
+
 
 ---
 
@@ -98,9 +103,6 @@ Choose **Application Load Balancer (ALB)**
 - Choose **at least two Availability Zones**  
 - Select the **subnets** linked to your servers  
 
-<p align="center">
-  <img src="screenshots/lb-availability.png" width="600"/>
-</p>
 
 ---
 
@@ -145,3 +147,15 @@ Click **Next → Register Targets**
 
 On refreshing the page, you’ll see different server responses:
 
+h3 align="left" style="color:#2E86C1;">📽️ Full Video Demonstration</h3>
+
+---
+
+> Watch the **complete step-by-step video** showing AMI creation, server replication, Load Balancer setup, and testing.
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1UVgwi8q4TQHyOMtu3y3c2m_rZiJiR8-o/view?usp=drive_link">
+    <img src="screenshots/thumbnail2.png" width="600" alt="Watch Video"/>
+  </br>Click to watch video  
+  </a>
+</p>
