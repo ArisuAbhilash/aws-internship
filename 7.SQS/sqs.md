@@ -138,8 +138,9 @@ Click **Publish**
 > Watch the **complete SQS and SNS to SQS integration video** for clarity.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1qO1nGuZszL4_VfaJzYPK5iNOgzRukJXN/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1Q82T42gqSzL-wwlRrSniNlSRny17l8Q4/view?usp=sharing">
     <img src="screenshots/sqs-video-thumbnail.png" width="600" alt="Watch Video"/>
+    </br> click to watch video
   </a>
 </p>
 
