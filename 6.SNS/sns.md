@@ -155,7 +155,7 @@ Click **Publish**
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1u38vvQhzcagpr5f8gylxRwPKZvVQ2Hs2/view?usp=drive_link">
-    <img src="screenshots/sns-final.png" width="600" alt="Watch Video"/>
+    <img src="screenshots/sns-final.PNG" width="600" alt="Watch Video"/>
     </br> Click TO Watch Video
   </a>
 
