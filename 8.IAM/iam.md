@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/iam-logo.png" width="120"/>
+  <img src="screenshots/iam.png" width="120"/>
 </p>
 
 <h1 align="center" style="color:#2E86C1;">AWS IAM – User & Policy Management Guide</h1>
@@ -149,7 +149,8 @@ This guide explains how to:
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1qO1nGuZszL4_VfaJzYPK5iNOgzRukJXN/view?usp=drive_link">
-    <img src="screenshots/iam-video-thumbnail.png" width="600" alt="Watch Video"/>
+    <img src="screenshots/iamthumb.png" width="600" alt="Watch Video"/>
+    </br> Click To Watch Video
   </a>
 </p>
 
