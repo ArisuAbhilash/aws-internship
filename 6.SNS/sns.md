@@ -119,6 +119,8 @@ Since AWS SMS requires verification:
 - Select the **verified phone number**  
 - Click **Create Subscription**
 
+<img src="screenshots/otp.jpg" width="180" alt="Watch Video"/>
+
 ---
 
 ### 📌 **Step 7: Publish a Message**
@@ -142,7 +144,7 @@ Click **Publish**
 
 - Check your **mobile phone**.  
 - You will receive the **SMS notification** from AWS SNS.
-
+<img src="screenshots/message.jpg" width="180" alt="Watch Video"/>
 ---
 
 <h3 align="left" style="color:#2E86C1;">📽️ Video Demonstration</h3>
@@ -152,9 +154,11 @@ Click **Publish**
 > Watch the **complete SNS setup video** for better understanding.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1qO1nGuZszL4_VfaJzYPK5iNOgzRukJXN/view?usp=drive_link">
-    <img src="screenshots/sns-video-thumbnail.png" width="600" alt="Watch Video"/>
+  <a href="https://drive.google.com/file/d/1u38vvQhzcagpr5f8gylxRwPKZvVQ2Hs2/view?usp=drive_link">
+    <img src="screenshots/sns-final.png" width="600" alt="Watch Video"/>
+    </br> Click TO Watch Video
   </a>
+
 </p>
 
 ---

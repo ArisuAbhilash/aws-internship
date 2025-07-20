@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/sqs-logo.png" width="120"/>
+  <img src="screenshots/sqs.png" width="120"/>
 </p>
 
 <h1 align="center" style="color:#2E86C1;">AWS SQS – Simple Queue Service Guide</h1>
@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="left" style="color:#2E86C1;">📦 SQS Types</h3>
+<h3 align="left" style="color:#2E86C1;">📦 SQS Queue Types</h3>
 
 ---
 
@@ -48,6 +48,12 @@
 - Go to **AWS Console**  
 - Search for **SQS** in the search bar  
 - Click **Create Queue**
+<p align="center">
+  <img src="screenshots/step1.png" width="600"/>
+</p>
+<p align="center">
+  <img src="screenshots/step2.png" width="600"/>
+</p>
 
 ---
 
@@ -66,7 +72,7 @@
 - **Dead Letter Queue:** Disabled (optional)
 
 <p align="center">
-  <img src="screenshots/sqs-step1.png" width="600"/>
+  <img src="screenshots/config.png" width="600"/>
 </p>
 
 ---
@@ -85,10 +91,6 @@
 - **Protocol:** `SQS`  
 - **Endpoint:** Select the **SQS Queue** you just created  
 - Click **Create Subscription**
-
-<p align="center">
-  <img src="screenshots/sns-to-sqs.png" width="600"/>
-</p>
 
 ---
 
@@ -117,10 +119,6 @@ Click **Publish**
 - Go to your **SQS Queue**  
 - You will see the **Message Available count increase**
 
-<p align="center">
-  <img src="screenshots/sqs-messages.png" width="600"/>
-</p>
-
 ---
 
 ### 🔄 **Test Multiple Messages**
@@ -139,8 +137,8 @@ Click **Publish**
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Q82T42gqSzL-wwlRrSniNlSRny17l8Q4/view?usp=sharing">
-    <img src="screenshots/sqs-video-thumbnail.png" width="600" alt="Watch Video"/>
-    </br> click to watch video
+    <img src="screenshots/final.png" width="600" alt="Watch Video"/>
+    </br> Click To Watch Video
   </a>
 </p>
 
