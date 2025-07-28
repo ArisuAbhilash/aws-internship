@@ -148,7 +148,7 @@ This guide explains how to:
 > Watch the **IAM user and policy management video** for complete hands-on.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1YKk2LTr9b611OUc1A6NVio4m4te5AGmP/view?usp=sharing">
+  <a href="hhttps://drive.google.com/file/d/1Yl2pEr8uMblTrIhO6m7aEv73rMN1NZhG/view?usp=drive_link">
     <img src="screenshots/iamthumb.png" width="600" alt="Watch Video"/>
     </br> Click To Watch Video
   </a>
